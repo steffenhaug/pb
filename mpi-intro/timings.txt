@@ -1,0 +1,24 @@
+Recaling image 1024x1024i -> 10240x5120.
+Proc #0 gonna do 5120/5120 rows starting at 0.
+Hey at least proc #0 didn't segfault!
+Gonna receive 209715200 bytes starting at 0 from proc #0
+Recaling image 1024x1024i -> 10240x5120.
+Proc #0 gonna do 2560/5120 rows starting at 0.
+Proc #1 gonna do 2560/5120 rows starting at 2560.
+Hey at least proc #1 didn't segfault!
+Hey at least proc #0 didn't segfault!
+Gonna receive 104857600 bytes starting at 0 from proc #0
+Gonna receive 104857600 bytes starting at 104857600 from proc #1
+Recaling image 1024x1024i -> 10240x5120.
+Proc #0 gonna do 1280/5120 rows starting at 0.
+Proc #1 gonna do 1280/5120 rows starting at 3840.
+Proc #2 gonna do 1280/5120 rows starting at 2560.
+Proc #3 gonna do 1280/5120 rows starting at 1280.
+Hey at least proc #1 didn't segfault!
+Hey at least proc #3 didn't segfault!
+Hey at least proc #2 didn't segfault!
+Hey at least proc #0 didn't segfault!
+Gonna receive 52428800 bytes starting at 0 from proc #0
+Gonna receive 52428800 bytes starting at 157286400 from proc #1
+Gonna receive 52428800 bytes starting at 104857600 from proc #2
+Gonna receive 52428800 bytes starting at 52428800 from proc #3

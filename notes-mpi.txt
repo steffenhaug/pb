@@ -1,0 +1,15 @@
+high-performance message passing
+install from debian package libopenmpi-dev
+
+# concepts
+## communicator
+- connects groups of processes
+- MPI_COMM_WORLD is a communicator for all processes i think
+- 
+
+# The most important functions
+
+MPI_Init(&argc, &argv);
+MPI_Comm_rank(MPI_COMM_WORLD, &my_rank);
+MPI_Comm_size(MPI_COMM_WORLD, &num_procs);
+MPI_Finalize();
